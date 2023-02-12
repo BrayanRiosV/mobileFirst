@@ -1,0 +1,24 @@
+.main-tables-container{
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.currency-table--title{
+    padding-left: 90px; 
+}
+
+.comisions-table--title{
+    padding-left: 90px;
+}
+
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.plans-container--slider {
+    justify-content: center;
+}
